@@ -80,8 +80,8 @@ A robust, production-ready collection of Python scripts engineered for secure co
 Clone the repository and install the required dependencies using pip:
 
 ```bash
-git clone [https://github.com/username/automation-toolkit.git](https://github.com/username/automation-toolkit.git)
-cd automation-toolkit
+git clone [https://github.com/rayaantasnim/Python-Automation.git](https://github.com/rayaantasnim/Python-Automation.git)
+cd rayaantasnim/Python-Automation
 pip install selenium pandas schedule
 ```
 
